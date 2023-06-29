@@ -1,5 +1,8 @@
 # mac-alias-memo
 
+- npm install -g @ionic/cli
+- npm install -g cordova
+
 https://masteringionic.com/blog/configuring-cordova-for-use-with-ionic-development
 - ionic cordova add ios 
 - ionic cordova add android
