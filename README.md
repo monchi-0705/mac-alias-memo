@@ -1,5 +1,10 @@
 # mac-alias-memo
 
+https://masteringionic.com/blog/configuring-cordova-for-use-with-ionic-development
+- ionic cordova add ios 
+- ionic cordova add android
+- ionic integrations disable capacitor
+
 ```
 alias la='ls -la'
 alias ll='ls -la'
