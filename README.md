@@ -1,7 +1,7 @@
 # mac-alias-memo
 
 - npm install -g @ionic/cli
-- npm install -g cordova
+- sudo npm install -g cordova@11.0.0 ionic@5.4.16
 
 https://masteringionic.com/blog/configuring-cordova-for-use-with-ionic-development
 - ionic cordova add ios 
