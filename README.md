@@ -2,6 +2,7 @@
 
 - npm install -g @ionic/cli
 - sudo npm install -g cordova@11.0.0 ionic@5.4.16
+- sudo npm install -g cordova@7.0.0 ionic@3.9.2
 
 https://masteringionic.com/blog/configuring-cordova-for-use-with-ionic-development
 - ionic cordova add ios 
